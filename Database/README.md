@@ -12,7 +12,7 @@ These Records are stored in different tables (Fillups, Insurance, Registration, 
 ## Database Implementation (SQL Script)
 
 ### Drop And Create Database
-```
+```sql
 USE master;
 GO
 
