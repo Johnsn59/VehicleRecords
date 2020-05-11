@@ -2,7 +2,7 @@
 
 ## Physical Database Design
 
-![Physical Database Design](VehiclePhysicalDesign.png)
+![Physical Database Design](VehicleRecordsDatabase.png)
 
 
 
