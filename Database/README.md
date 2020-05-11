@@ -2,7 +2,7 @@
 
 ## Physical Database Design
 
-![Physical Database Design](Vehicle Physical Design.pdf)
+![Physical Database Design](VehiclePhysicalDesign.png)
 
 
 
