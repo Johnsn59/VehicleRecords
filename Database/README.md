@@ -2,6 +2,13 @@
 
 ## Physical Database Design
 
+
+<hr>
+
+[Physical Design](PhysicalDesign.md)
+
+<hr>
+
 ![Physical Database Design](VehicleRecordsDatabase.png)
 
 This is the underlying database design for the Vehicle Records Application.
